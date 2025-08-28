@@ -33,6 +33,12 @@ migrate_working_dir/
 /build/
 /coverage/
 
+# Platform folders (ignore if not needed)
+windows/
+macos/
+linux/
+web/
+
 # Symbolication related
 app.*.symbols
 
